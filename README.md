@@ -20,4 +20,4 @@ Setup Steps
  
  1. Click on a row to open the edit user popup
  2. To add more users to the list, update the import.sql file by adding more import statements. Restart the application after this is completed.
- 3. 
+ 3. If you decide to use a different root password, then you will need to update the password in the application.properties file.
